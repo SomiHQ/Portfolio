@@ -1,0 +1,81 @@
+.container-fluid {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* Images */
+
+/* this is my profile photo */
+.projectsImg {
+    padding: 13px 20px 26px;
+    max-width: auto;
+    max-height: 250px;
+}
+/* this is for the ABOUT ME images*/
+.aboutMeIMG {
+  width: 1000px;
+  height: 250px;
+  padding: 10px 0 10px 0;
+}
+
+/* Image sizes for things in the body  */
+.imageSize{
+  width: 80%;
+  padding: 1rem 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+/* Images margin  */
+.tightMagin{
+  margin: 3px auto 3px auto;
+}
+.looseMagin{
+  margin: 10px auto;
+}
+
+.contentMargin{
+  margin-top: 1.5em;
+
+}
+
+/* Birthdaylia  */
+.logoFont1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  background-color:  #8ad6d6;
+}
+
+
+.contentBlocks{
+    background-color:  #8ad6d6;
+}
+
+.contactText {
+  padding-left: 15px;
+}
+
+.hiddenElement{
+  visibility: hidden;
+
+}
+
+/* .footer-padding {
+	padding: 60px 60px 0;
+} */
+
+.footer {
+	position: static;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #8ad6d6;
+  margin-top: 25px;
+  font-size: 18px;
+
+}
